@@ -1,0 +1,6 @@
+*.sw[po]
+/secret
+Thumbs.db
+*~
+Desktop.ini
+.DS_Store
